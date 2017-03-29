@@ -1,3 +1,7 @@
+///////////////////////////
+//CodeIQ S Rank
+//Author:Dawei XU
+///////////////////////////
 #include <iostream>
 #include <string>
 #include <cctype>
